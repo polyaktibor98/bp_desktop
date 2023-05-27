@@ -1,0 +1,10 @@
+<RCC>
+  <qresource>
+    <file>images/about.png</file>
+    <file>images/aboutQt.png</file>
+    <file>images/browse.png</file>
+    <file>images/generate.png</file>
+    <file>images/quit.png</file>
+    <file>images/save.png</file>
+  </qresource>
+</RCC>
