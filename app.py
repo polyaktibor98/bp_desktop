@@ -5,7 +5,7 @@ from bp_gui_widget import BpGuiMainWindow
 
 app = QtWidgets.QApplication(sys.argv)
 
-window = BpGuiMainWindow()
+window = BpGuiMainWindow(app)
 window.show()
 
 app.exec()
